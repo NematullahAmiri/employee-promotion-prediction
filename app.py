@@ -7,7 +7,7 @@ import joblib
 model = joblib.load("employee_promotion_model.pkl")
 columns = joblib.load("feature_columns.pkl")
 
-st.title("employee_promotion_model.pkl")
+st.title("Employee Promotion Prediction System")
 
 age = st.slider("Age", 20, 60, 35)
 
