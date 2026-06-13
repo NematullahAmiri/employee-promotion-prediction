@@ -4,8 +4,8 @@ import pandas as pd
 import joblib
 
 # Load model and feature columns
-model = joblib.load("employee_promotion_model.pkl")
-columns = joblib.load("feature_columns.pkl")
+model = joblib.load("employee_promotion_model .pkl")
+columns = joblib.load("feature_columns .pkl")
 
 st.title("Employee Promotion Prediction System")
 
