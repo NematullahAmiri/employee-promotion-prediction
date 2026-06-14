@@ -25,7 +25,7 @@ An Explainable Machine Learning Solution for Data-Driven Talent Management
 
 
 
-By: Nematullah Amiri PMP, MBA, Data Professional
+
 
 
 
@@ -226,6 +226,10 @@ https://github.com/NematullahAmiri/employee-promotion-prediction/tree/main
 
 Live Application
 https://employee-promotion-prediction-eq4g66rt6fpqn7ximhkrzx.streamlit.app/
+
+
+
+By: Nematullah Amiri PMP, MBA, Data Professional
 
 Portfolio Website
 https://nematullahamiri.github.io/#projects
