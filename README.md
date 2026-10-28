@@ -19,11 +19,12 @@ The objective is to evaluate predictive performance and identify limitations, no
 
 ## Dataset
 
-- Number of records: 54,808
-- Target variable: `is_promoted`
-- Problem type: Binary classification
-- Data source: Document the original dataset provider and link here.
-- Data limitations: Document missing values, class imbalance, data coverage, and any relevant privacy or fairness concerns.
+- **Number of records:** 54,808
+- **Target variable:** `is_promoted`
+- **Problem type:** Binary classification
+- **Data source:** Add the original dataset name and link.
+- **Data considerations:** Document class imbalance, missing values, and relevant data limitations based on your analysis.
+
 
 ## Analytical Workflow
 
@@ -140,10 +141,13 @@ This chart ranks features by their overall contribution to model predictions. Th
 
 ![SHAP feature importance](images/shap_feature_importance.png)
 
+
 ### Individual Prediction Explanation
-Keep these descriptions only if they accurately match the charts you uploaded. Later, replace general wording with your actual findings—for example, which department has the highest promotion rate or which features are most influential.
+
+This visualization illustrates how individual feature contributions affect a model prediction. Use it to examine a specific case, understand the model's reasoning, and identify questions requiring further investigation.
 
 ![Individual SHAP explanation](images/shap_individual_prediction.png)
+
 
 
 ## Author
