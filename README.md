@@ -119,24 +119,25 @@ Remove tools or techniques that were not actually used.
 
 ### Promotion Distribution
 
+This chart examines the distribution of employee promotion outcomes and helps assess whether the target variable is imbalanced. Understanding the distribution is important when selecting evaluation metrics and developing a suitable classification strategy.
 ![Promotion distribution](images/promotion_distribution.png)
 
 ### Promotion Rates by Department
-
+This comparison explores differences in promotion rates across departments. These patterns can guide further investigation into promotion processes, while recognizing that differences alone do not establish unfair treatment or identify their causes.
 ![Promotion rates by department](images/promotion_rate_by_department.png)
 
 ## Model Explainability
 
 ### SHAP Summary Plot
-
+The SHAP summary plot shows how model features contribute to predictions across the dataset. It helps examine which features influence predictions and whether their values tend to increase or decrease the model's output.
 ![SHAP summary plot](images/shap_summary_plot.png)
 
 ### SHAP Feature Importance
-
+This chart ranks features by their overall contribution to model predictions. The results can help identify the strongest predictive signals, but model importance should not be interpreted as proof of causation.
 ![SHAP feature importance](images/shap_feature_importance.png)
 
 ### Individual Prediction Explanation
-
+Keep these descriptions only if they accurately match the charts you uploaded. Later, replace general wording with your actual findings—for example, which department has the highest promotion rate or which features are most influential.
 ![Individual SHAP explanation](images/shap_individual_prediction.png)
 
 
