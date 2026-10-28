@@ -111,6 +111,35 @@ Python · Pandas · NumPy · Scikit-learn · XGBoost · Classification · Model 
 
 Remove tools or techniques that were not actually used.
 
+
+
+
+
+## Exploratory Data Analysis
+
+### Promotion Distribution
+
+![Promotion distribution](images/promotion_distribution.png)
+
+### Promotion Rates by Department
+
+![Promotion rates by department](images/promotion_rate_by_department.png)
+
+## Model Explainability
+
+### SHAP Summary Plot
+
+![SHAP summary plot](images/shap_summary_plot.png)
+
+### SHAP Feature Importance
+
+![SHAP feature importance](images/shap_feature_importance.png)
+
+### Individual Prediction Explanation
+
+![Individual SHAP explanation](images/shap_individual_prediction.png)
+
+
 ## Author
 
 Nematullah Amiri
